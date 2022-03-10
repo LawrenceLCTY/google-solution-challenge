@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">GoogleSolutionChallenge</string>
+    <string name="agora_app_id">89a4eeea3e7844f8baa988e0f28af3fa</string>
+    <string name="agora_access_token">00689a4eeea3e7844f8baa988e0f28af3faIABBxoce1O6c6gD0tz022CLXhYC7+6VLbIqWYK1sDSKSggRq9JQAAAAAEABOH1vQj3wpYgEAAQCPfCli</string>
 </resources>
